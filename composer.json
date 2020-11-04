@@ -1,8 +1,8 @@
 {
-	"name": "noahbuscher/macaw",
+	"name": "cansuceren/macaw",
 	"description": "Simple PHP router class.",
 	"license": "MIT",
-	"homepage": "https://github.com/noahbuscher/Macaw",
+	"homepage": "https://github.com/cansuceren/Macaw",
 	"keywords": [
 		"router",
 		"php-router",
@@ -23,6 +23,6 @@
     },
 	},
 	"autoload": {
-		"psr-4": { "NoahBuscher\\Macaw\\": "./" }
+		"psr-4": { "CansuCeren\\Macaw\\": "./" }
 	}
 }
