@@ -1,6 +1,6 @@
 <?php
 
-namespace NoahBuscher\Macaw;
+namespace CansuCeren\Macaw;
 
 /**
  * @method static Macaw get(string $route, Callable $callback)
